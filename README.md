@@ -5,9 +5,5 @@
 ### this app calculate your salary and expenditure to know better how to spend your money
 ![alt text](https://github.com/swri/travolta/blob/main/travolta/assets/screenshoots/Screenshot_20210907-180038221.jpg | height=300)
 
-![alt text](https://github.com/swri/travolta/blob/main/travolta/assets/screenshoots/Screenshot_20210907-180038221.jpg | height=300)
-
-![alt text](https://github.com/swri/travolta/blob/main/travolta/assets/screenshoots/Screenshot_20210907-180038221.jpg | height=300)
-
 
 Made by swr
